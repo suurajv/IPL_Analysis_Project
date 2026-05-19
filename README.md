@@ -1,10 +1,7 @@
 # 🏏 IPL Data Analysis (2008–2025)
 ### Exploratory Data Analysis using Statistical Methods
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 
 > **Course:** 22IS610 – Statistical Methods in Information Processing  
 > **Department:** Information Science & Engineering  
