@@ -178,9 +178,6 @@ Open `IPL_EDA_Project.ipynb` → Select kernel **"IPL Project"** → **Run All C
 ## 📚 References
 
 - **Dataset:** [IPL Dataset (2008–2025) — Kaggle](https://www.kaggle.com/datasets/chaitu20/ipl-dataset2008-2025)
-- **Textbook:** Fundamentals of Mathematical Statistics — S.C. Gupta & V.K. Kapoor, 12th Edition, Sultan Chand & Sons, 2020
-- **Textbook:** Statistics for Technology — C. Chatfield, 3rd Edition, 1999
-- **Course:** 22IS610, B.E. Information Science & Engineering, VTU
 
 ---
 
