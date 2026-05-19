@@ -79,8 +79,8 @@ IPL_Analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ipl-eda-stats.git
-cd ipl-eda-stats
+git clone https://github.com/suraj-v-22/IPL_Analysis_Project.git
+cd IPL_Analysis_Project
 ```
 
 ### 2. Create a virtual environment
@@ -111,7 +111,7 @@ Download `IPL.csv` from [Kaggle](https://www.kaggle.com/datasets/chaitu20/ipl-da
 ```bash
 jupyter notebook
 ```
-Open `IPL_EDA_Project.ipynb` → Select kernel **"IPL Project"** → **Run All Cells**
+Open `IPL_Analysis_Project.ipynb` → Select kernel **"IPL Project"** → **Run All Cells**
 
 ---
 
