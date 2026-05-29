@@ -79,7 +79,7 @@ IPL_Analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/suraj-v-22/IPL_Analysis_Project.git
+git clone https://github.com/suurajv/IPL_Analysis_Project.git
 cd IPL_Analysis_Project
 ```
 
